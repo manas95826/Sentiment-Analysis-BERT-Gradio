@@ -20,12 +20,12 @@ A sentiment analysis tool that utilizes the Hugging Face Transformers library to
 git clone https://github.com/yourusername/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
 
-## 1) Install the required libraries:
+## Install the required libraries:
 
 ```bash
-python sentiment_analysis.py
+pip install -r requirements.txt
 
-## 2) Run the sentiment analysis tool:
+## Run the sentiment analysis tool:
 
 ```bash
 python sentiment_analysis.py
