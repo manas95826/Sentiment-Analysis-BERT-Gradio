@@ -42,4 +42,3 @@ Contributions are welcome! If you find any issues or have ideas to enhance the p
 ## License
 This project is licensed under the MIT License.
 
-Designed and developed by Manas Chopra
