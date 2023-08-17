@@ -19,3 +19,29 @@ A sentiment analysis tool that utilizes the Hugging Face Transformers library to
 ```bash
 git clone https://github.com/yourusername/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
+
+## 1) Install the required libraries:
+```bash
+python sentiment_analysis.py
+
+## 2) Run the sentiment analysis tool:
+python sentiment_analysis.py
+
+## Technologies Used
+- Hugging Face Transformers: Leveraging pre-trained transformer models for sentiment analysis.
+- Gradio: Creating a user-friendly interface for interaction.
+- Python: Core programming language for implementation.
+
+## Usage
+Simply run the sentiment_analysis.py script and interact with the provided user interface. Enter the text you want to analyze, and the tool will provide the sentiment label (positive/negative) and the confidence score.
+
+## Contributing
+Contributions are welcome! If you find any issues or have ideas to enhance the project, feel free to submit a pull request.
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Designed and developed by Your Name
+Remember to replace placeholders like `yourusername` with your actual GitHub username and any other details specific to your project.
+
+Feel free to customize this README template to best fit your project's details and structure!
