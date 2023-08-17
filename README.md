@@ -14,20 +14,17 @@ A sentiment analysis tool that utilizes the Hugging Face Transformers library to
 
 ## Getting Started
 
-1. Clone this repository:
+# 1. Clone this repository:
 
-```bash
 git clone https://github.com/yourusername/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
 
 ## Install the required libraries:
 
-```bash
 pip install -r requirements.txt
 
 ## Run the sentiment analysis tool:
 
-```bash
 python sentiment_analysis.py
 
 ## Technologies Used
@@ -41,7 +38,7 @@ Simply run the sentiment_analysis.py script and interact with the provided user 
 ## Contributing
 Contributions are welcome! If you find any issues or have ideas to enhance the project, feel free to submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Designed and developed by Manas Chopra
