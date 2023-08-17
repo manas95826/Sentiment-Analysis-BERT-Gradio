@@ -16,7 +16,7 @@ A sentiment analysis tool that utilizes the Hugging Face Transformers library to
 
 # 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-tool.git
+git clone https://github.com/manas95826/Sentiment-Analysis-BERT-Gradio.git
 cd sentiment-analysis-tool
 ```
 ## Install the required libraries:
