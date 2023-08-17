@@ -21,10 +21,13 @@ git clone https://github.com/yourusername/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
 
 ## 1) Install the required libraries:
+
 ```bash
 python sentiment_analysis.py
 
 ## 2) Run the sentiment analysis tool:
+
+```bash
 python sentiment_analysis.py
 
 ## Technologies Used
@@ -41,7 +44,4 @@ Contributions are welcome! If you find any issues or have ideas to enhance the p
 ##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Designed and developed by Your Name
-Remember to replace placeholders like `yourusername` with your actual GitHub username and any other details specific to your project.
-
-Feel free to customize this README template to best fit your project's details and structure!
+Designed and developed by Manas Chopra
