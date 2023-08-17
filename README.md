@@ -40,5 +40,5 @@ Simply run the sentiment_analysis.py script and interact with the provided user 
 Contributions are welcome! If you find any issues or have ideas to enhance the project, feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
